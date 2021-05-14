@@ -3,3 +3,5 @@
 3. Calendaring
 4. Pomodoro technique
 5. Shoutout to my friend Mary who has been encouraging and connected me with other people in the Turing community!
+6. Another shoutout to everyone in our group!
+7. And a shoutout to my mom who I'm staying with right now until I move!
